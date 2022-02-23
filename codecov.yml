@@ -8,12 +8,4 @@ flag_management:
       statuses:
         - type: project
           target: 100%
-          threshold: 1%
-    - name: frontend
-      paths:
-        - web/
-      statuses:
-        - type: project
-          target: auto
-          threshold: 1%
-
+          threshold: 10%
