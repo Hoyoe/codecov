@@ -8,4 +8,4 @@ flag_management:
       statuses:
         - type: project
           target: 100%
-          threshold: 1%
+          threshold: 10%
